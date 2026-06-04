@@ -1,3 +1,4 @@
+
 # MAKERMANIA 2026
 
 ## Innovation Project Workbook
@@ -17,6 +18,7 @@
 ## 1.1 Team Name and Photo
 
 Draft Punk
+<img width="1280" height="960" alt="Team_Draft_Punk" src="https://github.com/user-attachments/assets/67df0cfe-3f4b-4265-aa0b-5c207eee4154" />
 
 ## 1.2 Team Members
 
