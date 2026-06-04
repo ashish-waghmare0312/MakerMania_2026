@@ -6,7 +6,7 @@
 >
 > Location: MBF Tinkerers' Lab 007
 >
-> Team Size: 3–5 Students
+> Team Size: 3 Students
 >
 > Goal: Identify a real-world problem and develop an innovative, patentable, and implementable solution.
 
@@ -16,15 +16,15 @@
 
 ## 1.1 Team Name and Photo
 
----
+Draft Punk
 
 ## 1.2 Team Members
 
 | Name | Role | Skills |
 | ---- | ---- | ------ |
-|      |      |        |
-|      |      |        |
-|      |      |        |
+|   Ashish Waghmare   |      |        |
+|  Aarush Srivatsava    |      |        |
+|   Shekhar Epili   |      |        |
 
 ---
 
